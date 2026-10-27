@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.buyboxv2ray": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "LK3J0hxDmrYwMWfGi02vm4amw8pcHFiYla3HcX93YNmBXYJSDFLUA7JcxjzwS5mo",
+        "cBlockGet": "oma9pg1no2wPQx7sippvr0ByN/oghQbvkwQffuq7GGuaQAhpxdC08YB/xn5A1GxPB26l0wDah27Y1IAX",
+        "cBlockPost": "wINLn815TOJkAnS5ZOZFsfEGvL+fElKyk+GX8tJ4laoBgp8t4A5kWhLhNOs=",
+        "cBlockNotice": "lrN45U0sbFR0GpyTxDEmneN3bNzR1X93a3Ms4bFxmiAhpA4znsd2V/hhU1xHr0kqfeRlNfyQhitq8m0oQJGDcWZYnJJ7Fxwp2EXfrCvRSXZsBSYuNAY9nOluCwzySBOVLsERxQ=="
+    }
+}
